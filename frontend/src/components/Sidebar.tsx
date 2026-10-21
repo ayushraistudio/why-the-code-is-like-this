@@ -43,13 +43,16 @@ export default function Sidebar({
       <div className="p-5 flex items-center justify-between shrink-0">
         <div className="flex items-center gap-3 cursor-pointer" onClick={() => onSelectNav('home')}>
           <BrandLogoSVG className="w-8 h-8 shrink-0" />
+          
           <div>
-            <h1 className="font-extrabold text-sm leading-tight text-slate-900 dark:text-white tracking-tight">
-              Why The Code
-              <br />
-              Is Like This
-            </h1>
-          </div>
+              <h1 className="font-extrabold text-sm leading-tight text-slate-900 dark:text-white tracking-tight">
+              GraphoraX
+             </h1>
+             <p className="text-[10px] font-medium tracking-wide text-slate-500 dark:text-slate-400 mt-0.5">
+              AI-Powered Code Intelligence
+            </p>
+           </div>
+
         </div>
         <button
           onClick={() => setMobileOpen(false)}
