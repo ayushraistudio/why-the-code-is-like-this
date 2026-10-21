@@ -4,9 +4,12 @@
 
 **GraphoraX** is an AI-powered developer intelligence platform that explains **"Why is the code like this?"** by building knowledge graphs from GitHub repository history and using GraphRAG with LLMs to generate evidence-grounded engineering explanations.
 
-**Live Demo:** https://graphorax.vercel.app/
 
-**GitHub Repository:** https://github.com/ayushraistudio/why-the-code-is-like-this
+🌐 **Live Demo:** [graphorax.vercel.app](https://graphorax.vercel.app/)
+
+📚 **API Documentation (Swagger):** [Explore API Endpoints](https://why-the-code-is-like-this.onrender.com/docs)
+
+💻 **GitHub Repository:** [why-the-code-is-like-this](https://github.com/ayushraistudio/why-the-code-is-like-this)
 
 ---
 
