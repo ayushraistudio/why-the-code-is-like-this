@@ -209,6 +209,8 @@ This is a developer-intelligence prototype for exploring GitHub history and evid
 
 **GitHub Repository:** https://github.com/ayushraistudio/why-the-code-is-like-this
 
-**Demo Video:** [Watch Project Demo](demo.mp4)
+## 🎬 Project Demo
+
+[▶️ Watch GraphoraX Demo](https://youtu.be/Io0-KjZsGmk)
 
 
