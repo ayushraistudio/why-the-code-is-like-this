@@ -40,8 +40,6 @@ why-the-code-is-like-this/
 |   +--- .env.example
 |   +--- requirements.txt
 |
-+--- demo/
-|   \--- project-demo.mp4
 |
 +--- docs/
 |   +--- architecture.md
