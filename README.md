@@ -1,11 +1,12 @@
-# Why The Code Is Like This
+# GraphoraX
+
 ### HackFront India — T1.1: AI and Developer Tools
 
-**Why The Code Is Like This** is a developer-intelligence prototype that answers **“Why is the code like this?”** by building a knowledge graph from GitHub repository history and using GraphRAG with an LLM to generate evidence-grounded engineering explanations.
+**GraphoraX** is an AI-powered developer intelligence platform that explains **"Why is the code like this?"** by building knowledge graphs from GitHub repository history and using GraphRAG with LLMs to generate evidence-grounded engineering explanations.
 
-> **Live Demo:** `ADD_YOUR_LIVE_DEMO_URL_HERE`  
-> **GitHub Repository:** `ADD_YOUR_GITHUB_REPOSITORY_URL_HERE`  
+**Live Demo:** https://graphorax.vercel.app/
 
+**GitHub Repository:** https://github.com/ayushraistudio/why-the-code-is-like-this
 
 ---
 
@@ -204,9 +205,10 @@ These are functional scenarios, not a statistically validated accuracy benchmark
 This is a developer-intelligence prototype for exploring GitHub history and evidence-grounded architectural reasoning. Feature availability and provider fallback behavior depend on the current implementation and configuration. Verify generated conclusions against source evidence before relying on them.
 
 ## Links
+**Live Demo:** https://graphorax.vercel.app/
 
-- **Live Demo:** `ADD_YOUR_LIVE_DEMO_URL_HERE`
-- **GitHub Repository:** `ADD_YOUR_GITHUB_REPOSITORY_URL_HERE`
-- **Demo Video:** [Watch Project Demo](demo.mp4)
+**GitHub Repository:** https://github.com/ayushraistudio/why-the-code-is-like-this
+
+**Demo Video:** [Watch Project Demo](demo/project-demo.mp4)
 
 
