@@ -207,6 +207,6 @@ This is a developer-intelligence prototype for exploring GitHub history and evid
 
 - **Live Demo:** `ADD_YOUR_LIVE_DEMO_URL_HERE`
 - **GitHub Repository:** `ADD_YOUR_GITHUB_REPOSITORY_URL_HERE`
-- **Demo Video:** [Watch Project Demo](demo/project-demo.mp4)
+- **Demo Video:** [Watch Project Demo](demo.mp4)
 
 
