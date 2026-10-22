@@ -1,17 +1,23 @@
-# GraphoraX
+# 🔍 GraphoraX – AI-Powered Codebase Intelligence & Decision Tracing
 
-### HackFront India — T1.1: AI and Developer Tools
+[![HackFront India](https://img.shields.io/badge/HackFront%20India-T1.1-blueviolet?style=flat-square)](#)
+[![React](https://img.shields.io/badge/React-TypeScript-61DAFB?style=flat-square\&logo=react\&logoColor=black)](https://react.dev/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square\&logo=fastapi\&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Neo4j](https://img.shields.io/badge/Neo4j-AuraDB-008CC1?style=flat-square\&logo=neo4j\&logoColor=white)](https://neo4j.com/)
+[![Gemini](https://img.shields.io/badge/Google-Gemini-4285F4?style=flat-square\&logo=googlegemini\&logoColor=white)](https://ai.google.dev/)
 
-**GraphoraX** is an AI-powered developer intelligence platform that explains **"Why is the code like this?"** by building knowledge graphs from GitHub repository history and using GraphRAG with LLMs to generate evidence-grounded engineering explanations.
+An AI-powered developer intelligence platform that answers **"Why is the code like this?"** by building knowledge graphs from GitHub repository history and using GraphRAG with Large Language Models (LLMs) to generate evidence-grounded engineering explanations. Explore code changes, trace engineering decisions, and investigate relationships between files, commits, authors, and pull requests.
 
+<div align="center">
 
-🌐 **Live Demo:** [graphorax.vercel.app](https://graphorax.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live-Demo-00C853?style=for-the-badge)](https://graphorax.vercel.app/)
+[![API Documentation](https://img.shields.io/badge/📚_Explore-API_Docs-2196F3?style=for-the-badge)](https://why-the-code-is-like-this.onrender.com/docs)
+[![GitHub Repository](https://img.shields.io/badge/💻_View-Source_Code-181717?style=for-the-badge\&logo=github)](https://github.com/ayushraistudio/why-the-code-is-like-this)
 
-📚 **API Documentation (Swagger):** [Explore API Endpoints](https://why-the-code-is-like-this.onrender.com/docs)
-
-💻 **GitHub Repository:** [why-the-code-is-like-this](https://github.com/ayushraistudio/why-the-code-is-like-this)
+</div>
 
 ---
+
 
 ## Overview
 
