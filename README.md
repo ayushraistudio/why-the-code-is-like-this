@@ -220,6 +220,7 @@ This is a developer-intelligence prototype for exploring GitHub history and evid
 
 ## 🎬 Project Demo
 
-[![Watch GraphoraX Demo](https://img.youtube.com/vi/Io0-KjZsGmk/maxresdefault.jpg)](https://youtu.be/Io0-KjZsGmk)
+[![Watch GraphoraX Demo](https://img.youtube.com/vi/NCjsNYBrRjI/maxresdefault.jpg)](https://youtu.be/NCjsNYBrRjI)
+
 
 
